@@ -1,0 +1,51 @@
+*{
+margin:0;
+padding:0;
+}
+div{
+width:500px;
+margin-left:auto;
+margin-right:auto;
+/* align:"center"; */
+}
+
+table{
+border: 1px solid gray;
+margin : 50px;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding:15px;
+}
+
+td {
+  background-color: #96A4A4;
+}
+th{
+background-color: #96A4D7;
+ text-align: center;
+ text-transform: uppercase;
+}
+.detail{
+margin : 50px;
+padding:18px;
+border : dotted black 1px;
+border-style: inset;
+}
+
+.index{
+  border: 1px solid rgb(179, 21, 21);
+  border-style: dotted;
+  margin:2px;
+  padding: 5px;
+}
+span{
+  margin:5px;
+  padding:10px;
+}
+ul li{
+  /* padding-left:10px; */
+  margin-left:35px;
+}
